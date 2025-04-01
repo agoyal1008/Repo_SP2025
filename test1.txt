@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 5AB0-E181
-
- Directory of C:\Users\ajago\OneDrive\Desktop\MyProject
-
-03/27/2025  11:45 AM    <DIR>          .
-03/27/2025  11:43 AM    <DIR>          ..
-03/27/2025  11:45 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  392,695,287,808 bytes free
+change 1
