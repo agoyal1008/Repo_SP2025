@@ -1,0 +1,13 @@
+Test 2.txt file added
+ Volume in drive C is Windows
+ Volume Serial Number is 5AB0-E181
+
+ Directory of C:\Users\ajago\OneDrive\Desktop\MyProject
+
+04/08/2025  11:15 AM    <DIR>          .
+03/28/2025  01:31 AM    <DIR>          ..
+04/01/2025  11:42 AM               414 index.html
+04/01/2025  11:42 AM                 8 test1.txt
+04/08/2025  11:15 AM                 0 test2.txt
+               3 File(s)            422 bytes
+               2 Dir(s)  390,454,403,072 bytes free
